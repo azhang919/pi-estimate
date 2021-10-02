@@ -11,6 +11,8 @@ Let U<sub>1</sub> and U<sub>2</sub> be independent U(-1,1) random variables.
 
 The probability that (U<sub>1</sub>, U<sub>2</sub>) is in the unit circle C = { (x<sub>1</sub>, x<sub>2</sub>): x<sub>1</sub><sup>2</sup> + x<sub>2</sub><sup>2</sup> ≤ 1 } is around the value of Pi! The more samples you draw from the uniform distribution, the more accurate this estimate will be. Below is a graph visualization of 100,000 drawings of uniform RVs.
 
-<img align="center" src="sim_graph.png" alt="Graph visualization of Pi">
+<p align="center" width="100%">
+    <img width="33%" src="sim_graph.png" alt="Graph visualization of Pi"> 
+</p>
 
 For more statistics and mathematical proof, see https://blogs.sas.com/content/iml/2016/03/14/monte-carlo-estimates-of-pi.html.
